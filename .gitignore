@@ -1,0 +1,14 @@
+
+### Assembler ###
+*.exe
+*.o
+*.obj
+*.bc
+
+bin/
+src/01/
+
+
+#KDEVELOP
+.kdev4/
+OS-dev.kdev4 
